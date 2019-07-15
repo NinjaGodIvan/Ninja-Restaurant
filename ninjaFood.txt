@@ -1,0 +1,61 @@
+Breakfast
+Egg Scrambler
+3.50
+Bacon and Egg Sandwich
+4.25
+Pancakes
+5.50
+Steak N Eggs
+8.00
+
+Sandwiches
+1980 Famous Ninja Sandwich
+12.50
+Ham and Swiss Sandwich
+9.00
+Turkey Bacon Sandwich
+8.55
+Curry Sandwich
+8.35
+Veggie Sandwich
+5.00
+
+Favorites
+Spaghetti and Meatballs
+13.00
+Salmon with Rice and Veggies
+28.45
+Burger with Fries
+14.50
+Loaf Meat Bun
+30.00
+
+Pizzas
+Pepperoni Pizza
+8.00
+Cheese Pizza
+6.50
+Combo Pizza
+9.20
+Pineapple Pizza
+7.00
+
+Sides
+French Fries
+2.10
+Fried Calamari
+2.70
+Fruits
+1.50
+White Rice
+2.40
+
+Beverages
+Water
+0.00
+Soda
+1.80
+Vanilla Shake
+3.50
+Iced Tea
+2.00
